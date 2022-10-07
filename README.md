@@ -1,2 +1,3 @@
-# accordian
-Accordian for hiding and displaying text on webpage
+# accordion
+
+Accordion for hiding and displaying text on webpage
