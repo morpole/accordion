@@ -5,6 +5,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: "Lato", sans-serif;
 }
 
 .accordion {
@@ -12,11 +13,13 @@ body {
   background-color: #fff;
   padding: 30px;
   border-radius: 30px;
+  margin-top: 10%;
 }
 
 .accordion .accordion-title {
   margin-bottom: 30px;
   text-align: center;
+  font-weight: bold;
 }
 
 .accordion .content-container .question {
